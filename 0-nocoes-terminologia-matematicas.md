@@ -126,6 +126,6 @@ public int f(int a, int b)
 
 ```
 
-13. Considere a seguinte situação apresentada na imagem abaixo em uma partida jogo da velha. Crie uma função onde dado o movimento do jogador X informe se vencou ou não a partida. Identifique os conjuntos de domínio e contradomínio e a tabela de mapeamento.
+13. Considere a seguinte situação apresentada na imagem abaixo em uma partida jogo da velha. Crie uma função onde dado o movimento do jogador X informe se vençeu ou não a partida. Identifique os conjuntos de domínio e contradomínio e a tabela de mapeamento.
 
  ![alt text](/assets/tic_tac_toe.gif)
